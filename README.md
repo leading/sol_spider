@@ -81,5 +81,5 @@ http://127.0.0.1:18001/docs/
 
 # Thanks for Your Support
 ```
-If this project is useful for you and you need it, please contact me on Discord: hahha
+If this project is useful for you and you need it, please contact me on Discord: muggleyan
 ```

@@ -5,7 +5,7 @@ module.exports = {
     //端口
     Port:18001,
     //数据库
-    DB_host: '192.168.17.77',
+    DB_host: '192.168.18.1',
     DB_port:7001,
     DB_user: 'root',
     DB_password: 'root',
